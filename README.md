@@ -29,11 +29,4 @@ This project involves developing a car rental application using Java and Swing t
 - Listing available and suitable vehicles based on specific criteria.
 - Handling reservation operations.
 
-## Contributions
 
-- You can contribute by creating pull requests during project development.
-- Feel free to create issues for adding new features or fixing bugs.
-
-## License
-
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
